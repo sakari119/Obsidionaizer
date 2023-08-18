@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Valt/Terrain - Voxelizations.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "21e6d123b5265798",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Valt/Terrain - Voxelizations.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Valt/Terrain - Voxelizations.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Valt/Terrain - Voxelizations.md"
+                "file": "README.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "214f2afcd9d9aa12",
+  "active": "40b862b5917bfed8",
   "lastOpenFiles": [
-    "Valt/Kanban/Pizza @{2023-08-30}.md",
-    "Valt/Terrain - Voxelizations.md",
-    "Valt/How to use obisdian.md",
     "Valt/Untitled Kanban.md",
+    "Valt/Terrain - Voxelizations.md",
+    "Valt/Kanban/Pizza @{2023-08-30}.md",
+    "Valt/How to use obisdian.md",
     "Distant Horizons",
     "New folder",
     "Valt/Kanban",
