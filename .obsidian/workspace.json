@@ -11,8 +11,12 @@
             "id": "214f2afcd9d9aa12",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Valt/Terrain - Voxelizations.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Valt/Untitled Kanban.md",
+                "file": "Valt/Terrain - Voxelizations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Valt/Untitled Kanban.md",
+                "file": "Valt/Terrain - Voxelizations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Valt/Untitled Kanban.md"
+                "file": "Valt/Terrain - Voxelizations.md"
               }
             }
           }
@@ -144,11 +148,12 @@
   },
   "active": "214f2afcd9d9aa12",
   "lastOpenFiles": [
+    "Valt/Kanban/Pizza @{2023-08-30}.md",
+    "Valt/Terrain - Voxelizations.md",
+    "Valt/How to use obisdian.md",
+    "Valt/Untitled Kanban.md",
     "Distant Horizons",
     "New folder",
-    "Valt/How to use obisdian.md",
-    "Valt/Kanban/Pizza @{2023-08-30}.md",
-    "Valt/Untitled Kanban.md",
     "Valt/Kanban",
     "README.md",
     "Valt/Untitled.canvas"
