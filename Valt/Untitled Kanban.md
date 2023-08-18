@@ -15,7 +15,7 @@ kanban-plugin: basic
 ## Games we have played
 
 - [ ] [[Multitank crew info kanban]]
-- [ ] Multi Tank Crew Combat [[Multitank crew info kanban]] ^0vwxwr
+- [ ] Multi Tank Crew Combat [[Multitank crew info kanban]] #tank #robloxGame #balisitcs ^0vwxwr
 
 
 

@@ -11,10 +11,8 @@
             "id": "0f1a71623717cdd6",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Valt/Untitled Kanban.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -46,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#robloxGame",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Valt/Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Valt/Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Valt/Untitled Kanban.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,8 +141,8 @@
   },
   "active": "0f1a71623717cdd6",
   "lastOpenFiles": [
-    "Valt/Kanban/Multitank crew info kanban.md",
     "Valt/Untitled Kanban.md",
+    "Valt/Kanban/Multitank crew info kanban.md",
     "README.md",
     "Valt/How to use obisdian.md",
     "2023-08-18.md",
