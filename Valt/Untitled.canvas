@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"87a914fe3fe440a6","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Balls gmaing"},
+		{"id":"434b28b652b63868","x":92,"y":180,"width":250,"height":60,"type":"text","text":"Fireyteam"},
+		{"id":"1900333ea34fdf77","x":-485,"y":201,"width":250,"height":60,"type":"text","text":"Blaks hawk rM"},
+		{"id":"76d0620c7588ced5","x":-175,"y":292,"width":250,"height":60,"type":"text","text":"RDM\n"}
+	],
+	"edges":[
+		{"id":"b867c60f39985050","fromNode":"87a914fe3fe440a6","fromSide":"bottom","toNode":"434b28b652b63868","toSide":"top"},
+		{"id":"2395249dad8dd122","fromNode":"87a914fe3fe440a6","fromSide":"bottom","toNode":"1900333ea34fdf77","toSide":"top"},
+		{"id":"5b8922b55a424f27","fromNode":"1900333ea34fdf77","fromSide":"right","toNode":"76d0620c7588ced5","toSide":"left"}
+	]
+}
