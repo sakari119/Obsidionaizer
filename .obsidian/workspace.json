@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Valt/How to use obisdian.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Valt/How to use obisdian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Valt/How to use obisdian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Valt/How to use obisdian.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "49f8e44307b79345",
   "lastOpenFiles": [
+    "README.md",
     "Valt/Untitled.canvas",
-    "Valt/Untitled.md",
-    "README.md"
+    "Valt/How to use obisdian.md"
   ]
 }
