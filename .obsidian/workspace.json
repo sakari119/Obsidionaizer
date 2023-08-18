@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Valt/Kanban/Multitank crew info kanban.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Valt/Kanban/Multitank crew info kanban.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Valt/Kanban/Multitank crew info kanban.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Valt/Kanban/Multitank crew info kanban.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,10 +148,10 @@
   },
   "active": "0f1a71623717cdd6",
   "lastOpenFiles": [
+    "Valt/Kanban/Multitank crew info kanban.md",
     "Untitled.canvas",
     "Valt/Kanban/Pizza @{2023-08-30}.md",
     "Valt/Untitled Kanban.md",
-    "Valt/Kanban/Multitank crew info kanban.md",
     "README.md",
     "Valt/How to use obisdian.md",
     "2023-08-18.md",
