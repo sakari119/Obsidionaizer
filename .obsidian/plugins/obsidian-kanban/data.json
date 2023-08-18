@@ -28,5 +28,6 @@
       "color": "rgba(240, 108, 108, 1)",
       "backgroundColor": "rgba(240, 108, 108, 0.1)"
     }
-  ]
+  ],
+  "hide-tags-in-title": true
 }
