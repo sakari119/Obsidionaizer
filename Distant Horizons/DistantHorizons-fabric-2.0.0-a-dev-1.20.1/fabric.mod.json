@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "id": "distanthorizons",
+  "version": "2.0.0-a-dev",
+  "name": "Distant Horizons",
+  "description": "This mod generates and renders simplified terrain beyond the normal view distance at a low performance cost. Allowing you to see much farther without turning your game into a slideshow.",
+  "authors": [
+    "James Seibel",
+    "Leonardo Amato",
+    "Cola",
+    "coolGi",
+    "Ran",
+    "Leetom"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/distanthorizons",
+    "sources": "https://gitlab.com/jeseibel/minecraft-lod-mod/",
+    "issues": "https://gitlab.com/jeseibel/minecraft-lod-mod/-/issues"
+  },
+  "license": "LGPL-3",
+  "icon": "icon.png",
+  "accessWidener": "distanthorizons.accesswidener",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.seibel.distanthorizons.fabric.FabricClientMain"
+    ],
+    "server": [
+      "com.seibel.distanthorizons.fabric.FabricDedicatedServerMain"
+    ],
+    "modmenu": [
+      "com.seibel.distanthorizons.fabric.wrappers.config.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "DistantHorizons.fabric.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": "*",
+    "fabric-api-base": "*",
+    "fabric-lifecycle-events-v1": "*",
+    "fabric-key-binding-api-v1": "*",
+    "fabric-resource-loader-v0": "*",
+    "minecraft": [
+      "1.20",
+      "1.20.1"
+    ],
+    "java": "\u003e\u003d17"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.discord": "https://discord.gg/xAB8G4cENx"
+      }
+    }
+  },
+  "jars": [
+    {
+      "file": "META-INF/jars/fabric-key-binding-api-v1-1.0.36+fb8d95da77.jar"
+    },
+    {
+      "file": "META-INF/jars/fabric-rendering-v1-3.0.6+b3afc78b77.jar"
+    },
+    {
+      "file": "META-INF/jars/fabric-networking-api-v1-1.3.8+b3afc78b77.jar"
+    },
+    {
+      "file": "META-INF/jars/fabric-lifecycle-events-v1-2.2.20+b3afc78b77.jar"
+    },
+    {
+      "file": "META-INF/jars/fabric-events-interaction-v0-0.6.0+b3afc78b77.jar"
+    },
+    {
+      "file": "META-INF/jars/fabric-resource-loader-v0-0.11.8+e3d6ed2577.jar"
+    },
+    {
+      "file": "META-INF/jars/fabric-api-base-0.4.29+b04edc7a77.jar"
+    }
+  ]
+}
