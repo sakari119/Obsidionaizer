@@ -29,5 +29,6 @@ Let's read about the [[Pizza @{2023-08-30}]] as a way to make pizza it contains 
 
 
 # **read what was said under 100%**
+**[[How to use obisdian]]** As a link to keep yourself upto date
 
 no I will not read this
