@@ -14,7 +14,8 @@ kanban-plugin: basic
 
 ## Games we have played
 
-- [ ] Multi Tank Crew Combat
+- [ ] [[Multitank crew info kanban]]
+- [ ] Multi Tank Crew Combat [[Multitank crew info kanban]] ^0vwxwr
 
 
 
