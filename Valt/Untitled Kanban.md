@@ -12,6 +12,11 @@ kanban-plugin: basic
 - [ ] New card
 
 
+## Games we have played
+
+- [ ] Multi Tank Crew Combat
+
+
 
 
 %% kanban:settings
