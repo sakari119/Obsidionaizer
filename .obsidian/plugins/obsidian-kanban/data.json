@@ -1,0 +1,32 @@
+{
+  "show-checkboxes": true,
+  "show-relative-date": true,
+  "hide-date-in-title": true,
+  "tag-colors": [
+    {
+      "tagKey": "To Do",
+      "color": "rgba(1, 35, 145, 1)",
+      "backgroundColor": "rgba(0, 55, 255, 0.1)"
+    },
+    {
+      "tagKey": "In progress",
+      "color": "rgba(221, 240, 108, 1)",
+      "backgroundColor": "rgba(209, 240, 108, 0.1)"
+    },
+    {
+      "tagKey": "Completed",
+      "color": "rgba(14, 255, 18, 1)",
+      "backgroundColor": "rgba(11, 255, 52, 0.1)"
+    },
+    {
+      "tagKey": "Issue",
+      "color": "rgba(240, 167, 108, 1)",
+      "backgroundColor": "rgba(240, 163, 108, 0.1)"
+    },
+    {
+      "tagKey": "Error",
+      "color": "rgba(240, 108, 108, 1)",
+      "backgroundColor": "rgba(240, 108, 108, 0.1)"
+    }
+  ]
+}
