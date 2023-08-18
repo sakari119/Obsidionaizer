@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Valt/How to use obisdian.md",
+                "file": "Valt/Kanban/Pizza @{2023-08-30}.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Valt/How to use obisdian.md",
+                "file": "Valt/Kanban/Pizza @{2023-08-30}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Valt/How to use obisdian.md",
+                "file": "Valt/Kanban/Pizza @{2023-08-30}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Valt/How to use obisdian.md"
+                "file": "Valt/Kanban/Pizza @{2023-08-30}.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "49f8e44307b79345",
   "lastOpenFiles": [
-    "README.md",
+    "Valt/Untitled Kanban.md",
+    "Valt/Kanban/Pizza @{2023-08-30}.md",
+    "Valt/Kanban",
     "Valt/How to use obisdian.md",
+    "README.md",
     "Valt/Untitled.canvas"
   ]
 }

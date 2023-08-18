@@ -1,5 +1,5 @@
 {
-  "commitMessage": "vault backup: {{date}} changed {{numFiles}} of the following files: {{files}}",
+  "commitMessage": "manual vault backup: {{date}} \nchanged {{numFiles}} of the following files: \n{{files}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 1,
   "autoPushInterval": 2,
@@ -51,5 +51,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "vault auto backup: {{date}}"
+  "autoCommitMessage": "automatic vault backup: {{date}} \nchanged {{numFiles}} of the following files: \n{{files}}"
 }
