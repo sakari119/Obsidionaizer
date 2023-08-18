@@ -9,6 +9,7 @@ kanban-plugin: basic
 - [ ] Engine changes to thingammoamb
 - [ ] Pushing chnages
 - [ ] [[Pizza @{2023-08-30}]]
+- [ ] New card
 
 
 
